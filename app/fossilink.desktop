@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=fossilink
+Exec=fossilink
+Name=FossiLink
+
+[X-Sailjail]
+# Replace with your organization as a reverse domain name
+OrganizationName=com.xiaoka
+# ApplicationName does not have to be identical to Name
+ApplicationName=FossiLink
+# Add the required permissions here
+Permissions=
